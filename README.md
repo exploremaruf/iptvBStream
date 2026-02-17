@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/exploremaruf/iptvBStream/main/iptv.m3u8
 
 IPTV player (android) : https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv
 
-IPTV Player play m3u playlist  (IOS , IPAD , Apple TV) : https://apps.apple.com/us/app/iptv-player-play-m3u-playlist/id1303327384
+IPTV Player play m3u playlist (IOS , IPAD , Apple TV) : https://apps.apple.com/us/app/iptv-player-play-m3u-playlist/id1303327384
 
 2. Select **Add Playlist** / **Add M3U URL**.
 3. Paste the URL provided in the [Quick Start]() section.
@@ -89,7 +89,3 @@ Contributions are what make the open-source community amazing!
 ## 📜 License
 
 Distributed under the **GPL-3.0 License**. See `LICENSE` for more information.
-
----
-
-**Would you like me to help you draft the `LICENSE` file or create a `CONTRIBUTING.md` file to go along with this?**
