@@ -20,7 +20,7 @@ A curated collection of Bangladeshi & Indian Bangla TV channels for Internet TV 
 1. Open **VLC Media Player**  
 2. Click **Media → Open Network Stream**  
 3. Paste the playlist URL:  
-https://raw.githubusercontent.com/yourusername/iptvBStream/main/iptv.m3u8
+https://raw.githubusercontent.com/exploremaruf/iptvBStream/main/iptv.m3u8
 
 4. Click **Play** to start streaming
 
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/yourusername/iptvBStream/main/iptv.m3u8
 
 1. Install an IPTV player (e.g., IPTV Pro, GSE Smart IPTV)  
 2. Add the playlist URL:  
-https://raw.githubusercontent.com/yourusername/iptvBStream/main/iptv.m3u8
+https://raw.githubusercontent.com/exploremaruf/iptvBStream/main/iptv.m3u8
 3. Start watching your favorite channels instantly
 
 ### 3. Using Browser Extensions
